@@ -3,8 +3,8 @@
  [Fᴏʀᴄᴇ sᴜʙsʀɪʙᴇ Bᴏᴛ](https://t.me/ForceSubscriber_RoBot)
 > ɢɪvᴇ ᴀ sᴛᴀʀ ʙᴇғᴏʀᴇ ᴋᴀᴍɢɪɴɢ  ғᴜᴍᴋᴇʀ
 
-<p align="center"><a href="https://github.com/Noob-mukesh/ForceSubsribeBot"><img src="https://te.legra.ph/file/fe924e2746ad34b7dc76d.jpg" width="2000"></a></p>
-
+<p align="center"><a href="https://github.com/Noob-mukesh/ForceSubsribeBot"
+                   
  ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ғᴏʀᴄᴇ sᴜʙsʀɪʙᴇ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴜsᴇʀs ᴛᴏ sᴜʙsʀɪʙᴇ ᴄʜᴀɴɴᴇʟ ᴏʀ ᴄʜᴀᴛ ʙʙ
 
 
@@ -12,7 +12,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴜᴋᴏ
 
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noob-Mukesh/ForceSubsribeBot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://github.com/nothing022/ForceSubsribeBot)
 
 1. Tᴀᴘ ᴏɴ ᴀʙᴏᴠᴅ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ғɪʟʟ`API_ID`, `API_HASH`, `BOT_TOKEN` (ᴀɴᴅ `MUST_JOIN`).
 2. Tʜᴇɴ ᴛᴀᴘ ᴏɴ "ᴅᴇᴘʟᴏʏ ᴀᴘᴘ"ʙᴇʟᴏᴡ ɪᴛ ᴡᴀɪᴛ ᴛɪʟʟ ᴅᴇᴘʟᴏʏɪɴɢɪs ᴄᴏᴍᴘʟᴇᴛᴇ(ᴡɪʟʟ ᴛᴀᴋᴇ 1-2 ᴍɪɴᴜᴛᴇs).
