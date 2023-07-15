@@ -37,7 +37,7 @@ async def fsub(bot, msg: Message):
                 "3) ɪ ʜᴀᴠᴇ ʙᴇᴇɴ ᴅᴇᴍᴏᴛᴇᴅ ᴛʜᴇʀᴇ. \n"
                 "4) ʏᴏᴜ ʜᴀᴠᴇ ᴘʀᴏᴠɪᴅᴇᴅ ʟɪɴᴋ ɪɴsᴛᴇᴀᴅ ᴏғ ᴜsᴇʀɴᴀᴍᴇ/chat_id. \n\n"
                 "Pʟᴇᴀsᴇ ʀᴇ-ᴄʜᴇᴀᴋ ᴀʟʟ ᴛʜɪs 3 ᴛʜɪɴɢs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ʙᴀʙʏ"
-                "Iғ sᴛɪʟʟ ʜᴀᴠᴇ ɪssᴜᴇ ᴛʜᴇɴ ᴠɪsɪᴛ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ @the_support_chat."
+                "Iғ sᴛɪʟʟ ʜᴀᴠᴇ ɪssᴜᴇ ᴛʜᴇɴ ᴠɪsɪᴛ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ @NothingBots."
             )
             return
         except ValueError as e:
@@ -51,4 +51,4 @@ async def fsub(bot, msg: Message):
             await change_force_chat(chat_id, to_be_chat_id)
             await msg.reply("sᴜᴄᴇssғᴜʟ. Nᴏᴡ ɪ'ʟʟ ᴍᴜᴛᴇ ᴘᴇᴏᴘʟᴇ ᴡʜᴏ ʜᴀᴠᴇɴ'ᴛ ᴊᴏɪɴᴇᴅ ᴛʜᴀᴛ ᴄʜᴀᴛ ʙᴀʙʏ . \n\nᴜsᴇ  /settings ᴛᴏ ᴄʜᴀɴɢᴇ sᴇᴛᴛɪɴɢs.")
         else:
-            await msg.reply("ᴘʟᴇᴀsᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ʙᴀʙʏ ᴠɪsɪᴛ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ @the_support_chat !")
+            await msg.reply("ᴘʟᴇᴀsᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ʙᴀʙʏ ᴠɪsɪᴛ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ @NothingBots !")
