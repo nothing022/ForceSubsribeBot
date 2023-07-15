@@ -8,7 +8,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴜᴋᴏ
 
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://github.com/nothing022/ForceSubsribeBot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](href="https://dashboard.heroku.com/new?template=https://github.com/nothing022/ForceSubsribeBot)
 
 1. Tᴀᴘ ᴏɴ ᴀʙᴏᴠᴅ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ғɪʟʟ`API_ID`, `API_HASH`, `BOT_TOKEN` (ᴀɴᴅ `MUST_JOIN`).
 2. Tʜᴇɴ ᴛᴀᴘ ᴏɴ "ᴅᴇᴘʟᴏʏ ᴀᴘᴘ"ʙᴇʟᴏᴡ ɪᴛ ᴡᴀɪᴛ ᴛɪʟʟ ᴅᴇᴘʟᴏʏɪɴɢɪs ᴄᴏᴍᴘʟᴇᴛᴇ(ᴡɪʟʟ ᴛᴀᴋᴇ 1-2 ᴍɪɴᴜᴛᴇs).
