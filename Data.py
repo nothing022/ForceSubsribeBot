@@ -59,9 +59,9 @@ class Data:
 
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @legend_coder
+ᴅᴇᴠᴇʟᴏᴘᴇʀ :  [Nᴏᴛʜɪɴɢ...](https://t.me/Infinityuncounted01)
 
-ᴜᴘᴅᴀᴛᴇ   : @Mr_sukkun
+ᴜᴘᴅᴀᴛᴇ   : @NothingBotz
 
 ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](https://github.com/Noob-mukesh/ForceSubsribeBot)
     """
