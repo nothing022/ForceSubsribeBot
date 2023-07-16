@@ -63,5 +63,5 @@ class Data:
 
 ᴜᴘᴅᴀᴛᴇ   : @NothingBotz
 
-ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](https://github.com/Noob-mukesh/ForceSubsribeBot)
+ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](Nothing022.github.io)
     """
