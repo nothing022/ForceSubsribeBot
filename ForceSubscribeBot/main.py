@@ -40,7 +40,7 @@ async def main(bot: Client, msg: Message):
                     return
                 
                 elif action == 'warn':
-                    await msg.reply(f"ʜᴇʏ ᴅᴇᴀʀ  {msg.from_user.mention},\n\nʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴛᴏ ᴊᴏɪɴ {mention} ᴛᴏ ᴄʜᴀᴛ ʜᴇʀᴇ ᴛʜᴇɴ ᴘʀᴇss ᴏɴ ᴜɴᴍᴜᴛᴇ ʙᴜᴛᴛᴏɴ.",
+                    await msg.reply(f"ʜᴇʏ ᴅᴇᴀʀ  {msg.from_user.mention},\n\nʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴛᴏ ᴊᴏɪɴ {mention} ᴛᴏ ᴄʜᴀᴛ ʜᴇʀᴇ, \nयहां चैट करने के लिए आपको {mention} से जुड़ना होगा",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✨Nᴏᴛᴇs ᴄʜᴀɴɴᴇʟ  ✨", url=link)]]))
                     await msg.delete()
