@@ -1,7 +1,6 @@
-# ғᴏʀᴄᴇ sᴜʙsʀɪʙᴇ ʙᴏᴛ
+# Fᴏʀᴄᴇ Sᴜʙsᴄʀɪʙᴇ Bᴏᴛ
 
- [Fᴏʀᴄᴇ sᴜʙsʀɪʙᴇ Bᴏᴛ](https://t.me/ForceSubscriber_RoBot)
-> ɢɪvᴇ ᴀ sᴛᴀʀ ʙᴇғᴏʀᴇ ᴋᴀᴍɢɪɴɢ  ғᴜᴍᴋᴇʀ
+ [Fᴏʀᴄᴇ Sᴜʙsᴄʀɪʙᴇ Bᴏᴛ](https://t.me/FirstJoin_bot)
 
 
 ## ᴜsᴀɢᴇ
@@ -19,7 +18,7 @@
 
 1. Cʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏ
    ```markdown
-   git clone https://github.com/Noob-Mukesh/ForceSubscribeBot
+   git clone https://github.com/nothing022/ForceSubsribeBot
    ```
    
 2. Gᴇᴛ ᴀ DATABASE_URL.  Iғ ʏᴏᴜ ᴅᴏɴᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ .ᴛʜᴇɴ ᴅᴇᴘʟᴏʏ ᴜsɪɴɢ ʜᴇʀᴜᴋᴏ ʙᴜᴛᴛᴏɴᴏɴʟʏ ᴏʀ ᴅᴇʟᴇᴛᴇ ᴅᴀᴛᴀʙᴀsᴇ ᴛʜɪɴɢs ᴀs ɪᴛ's ɴᴏᴛ ᴀ ᴄᴏᴍᴘᴜʟsɪᴏɴ.
@@ -54,14 +53,15 @@
 ## ᴄʀᴇᴅɪᴛ 
 
  
+[Nᴏᴛʜɪɴɢ...](https://t.me/Infinityuncounted01)
 
 [ɴᴏᴏʙ ᴄᴏᴅᴇʀ](https://t.me/legend_coder)
 
 ## sᴜᴘᴘᴏʀᴛ
 
-ᴄʜᴀɴɴᴇʟ :- [ᴍᴜᴋᴇsʜ ʙᴏᴛ ᴢᴏɴᴇ](https://t.me/mukeshbotzone)
+[ᴄʜᴀɴɴᴇʟ](https://t.me/NothingBotz)
 
-ɢʀᴏᴜᴘ ᴄʜᴀᴛ :- [ᴛʜᴇ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/the_support_chat)
+[ɢʀᴏᴜᴘ ᴄʜᴀᴛ](https://t.me/NothingBots)
 
 ## :)
 
