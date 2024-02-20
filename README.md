@@ -63,7 +63,3 @@
 
 [ɢʀᴏᴜᴘ ᴄʜᴀᴛ](https://t.me/NothingBots)
 
-## :)
-
-[![ғᴏʀ ᴛʜᴇʙᴀᴅɢᴇ ᴍᴀᴅᴇ-ᴡɪᴛʜ ᴘʏᴛʜᴏɴ](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
